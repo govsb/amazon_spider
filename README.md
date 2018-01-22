@@ -1,2 +1,2 @@
 # amazon_spider
-抓取amazon图书数据
+基于scrapy抓取amazon图书数据
